@@ -1,3 +1,3 @@
-# Movei App 2020
+# Movie App 2019
 
-- React JS Fundamental Course 2020
+React JS Fundamentals Course (2019 Update!)
